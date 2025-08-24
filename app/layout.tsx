@@ -4,8 +4,11 @@ import { GeistMono } from 'geist/font/mono'
 import './globals.css'
 
 export const metadata: Metadata = {
-  title: 'Samuel Perez',
-  //description: 'Created with v0',
+  title: 'Samuel Perez.CV',
+  description: 'Portafolio de Samuel Pérez',
+  icons: {
+    icon: '/favicon.png', // Asegúrate que el nombre coincida con el archivo que guardaste
+  },
   //generator: 'v0.app',
 }
 
