@@ -15,7 +15,7 @@ export default function HeroSection() {
             initial={{ opacity: 0, y: 30 }}
             animate={{ opacity: 3, y: 0 }}
             transition={{ duration: 1.0, delay: 0.3 }}
-            className="relative w-full h-[70vh] min-h-[500px] rounded-2xl overflow-hidden md:hidden"
+            className="relative w-full h-[70vh] min-h-[500px] rounded-2xl overflow-hidden lg:hidden"
           >
             <HeroAnimation />
 
@@ -37,7 +37,7 @@ export default function HeroSection() {
             initial={{ opacity: 0, y: 30 }}
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.8, delay: 0.3 }}
-            className="relative w-full h-[60vh] min-h-[400px] rounded-2xl overflow-hidden hidden md:block"
+            className="relative w-full h-[60vh] min-h-[400px] rounded-2xl overflow-hidden hidden lg:block"
           >
             <iframe
               src="https://andres-castiblanco.github.io/SamuelPerezDot/"
