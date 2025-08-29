@@ -19,7 +19,7 @@ const experiences = [
     title: "Alcaldía Mayor de Bogotá",
     description:
       "Asesor en Analítica de Datos y Transformación Digital. Apoyo con seguimiento, análisis y gestión de datos para temas prioritarios. Certificación What Work Cities 2024 Bloomberg.",
-    year: "2022-2023",
+    year: "22-23",
   },
   {
     title: "IGAC - Instituto Geográﬁco Agustín Codazzi",
@@ -37,13 +37,13 @@ const experiences = [
     title: "Concejo de Bogotá",
     description:
       "Asesor Catastral, Económico y de Data. Liderazgo en investigación y análisis de datos para decisiones de política pública y debates de control político.",
-    year: "2020-2022",
+    year: "20-22",
   },
   {
     title: "Universidad de los Andes",
     description:
       "Asistente Graduado de Investigación, Soporte en revisión de literatura, construcción y limpieza de bases de datos, así como soporte en análisis econométrico y visualización de datos.",
-    year: "2021-2022",
+    year: "21-22",
   },
   {
     title: "Congreso de la República",
@@ -55,7 +55,7 @@ const experiences = [
     title: "IGAC - Instituto Geográﬁco Agustín Codazzi",
     description:
       "Estandarización y regulación componentes catastrales y económicos para la habilitación de gestores y operadores, e implementó información gráﬁca y alfanumérica en catastros candidatos. Realizó control de calidad de bases geoespaciales en SQL y generó productos cartográﬁcos, brindando soporte en ArcGIS, QGIS, Python y R.",
-    year: "2016-2019",
+    year: "16-19",
   },
   {
     title: "Oﬃce National des Forets",
